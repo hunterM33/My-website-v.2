@@ -1,0 +1,31 @@
+.bubbles{display:block ; margin-left:block ; margin-right:auto ; width:35% ;}
+body{background:url(https://abduzeedo.com/sites/default/files/styles/home_cover/public/originals/1280x720.jpg?itok=YUy8syWj); background-repeat: no-repeat; background-size: 2000px;}
+.scratch{display: block; margin-left: 325px ; margin-right:auto ; margin-top: -780px; width:15%;}
+h1{color: white;text-align: center;}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}
