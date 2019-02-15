@@ -1,0 +1,22 @@
+body{background: url(https://abduzeedo.com/sites/default/files/styles/home_cover/public/originals/1280x720.jpg?itok=YUy8syWj);background-repeat: no-repeat; background-size: 2000px;}
+.setup{width: 400px;}
+h1{display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;}
+.facts{display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;}
+
+    .setup{display:auto ; margin-left:760px ; margin-right:auto ;margin-top: -150px;}
+    .scratch{display: auto; margin-left: 750px;}
+    .me{display: block; width: 10%;}
+    .other{display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;}
+    
